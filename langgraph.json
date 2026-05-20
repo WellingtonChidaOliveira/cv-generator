@@ -1,0 +1,7 @@
+{
+    "node_version": "20",
+    "graphs":{
+        "cv_generator": "./src/agent/agent.ts:graph"
+    },
+    "env": ".env"
+}
